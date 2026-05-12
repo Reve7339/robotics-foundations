@@ -1,0 +1,9 @@
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data / scripts we don't want to track in the repo
+raw_data/
