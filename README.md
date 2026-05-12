@@ -16,6 +16,12 @@ Este repositorio está en construcción. Actualmente contiene los siguientes mó
    * Cuaterniones Unitarios y su uso industrial.
    * Casos Prácticos Reales: Modelado de cámaras en el robot (Eye-in-Hand), navegación de VANTs y animaciones de soldadura suaves con SLERP.
 
+2. [**Direct Kinematics**](Direct_Kinematics.ipynb)
+   * Transformaciones Homogéneas ($4\\times4$).
+   * Convención de Denavit-Hartenberg (DH).
+   * Ecuación de Cinemática Directa para cadenas abiertas.
+   * Modelado completo de Robots Reales: Antropomórfico (RRR), Esférico (RRP), Cilíndrico (RPP) y SCARA (RRPR).
+
 *(Próximamente más notebooks sobre cinemática inversa, jacobianos, dinámica y control...)*
 
 ## 🚀 Cómo ejecutar los Notebooks
