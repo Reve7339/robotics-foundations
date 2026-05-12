@@ -1,20 +1,20 @@
-# Fundamentos de Robótica (Robotics Foundations) 🤖⚙️
+# Fundamentos de Robótica (Robotics Foundations I - Robot Modelling) 🤖⚙️
 
 ¡Bienvenido! Este repositorio contiene una serie de **Jupyter Notebooks interactivos** creados para estudiar, comprender y simular visualmente los conceptos clave de la ingeniería robótica (cinemática, dinámica, control y modelado).
 
-Los notebooks están fuertemente inspirados en el curso *Robotics Foundations* y adaptan literatura estándar de la industria (como Siciliano y Craig) usando **Python**, **SciPy** y **Plotly** para visualizaciones en 3D interactivas.
+Los notebooks están fuertemente inspirados en el curso *Robotics Foundations I - Robot Modelling* y adaptan literatura estándar de la industria (como Siciliano y Craig) usando **Python**, **SciPy** y **Plotly** para visualizaciones en 3D interactivas.
 
 ## 📚 Índice de Contenidos
 
 Este repositorio está en construcción. Actualmente contiene los siguientes módulos:
 
-1. [**Cinemática y Orientación Espacial**](Cinematica_y_Orientacion.ipynb)
-   - Espacio Articular vs. Espacio Cartesiano.
-   - Matrices de Rotación ($SO(3)$).
-   - Ángulos de Euler y el problema de *Gimbal Lock*.
-   - Representación de Eje-Ángulo (Teorema de Euler).
-   - Cuaterniones Unitarios y su uso industrial.
-   - Casos Prácticos Reales: Modelado de cámaras en el robot (Eye-in-Hand), navegación de VANTs y animaciones de soldadura suaves con SLERP.
+1. [**Representation of Orientation**](Representation_of_Orientation.ipynb)
+   * Espacio Articular vs. Espacio Cartesiano.
+   * Matrices de Rotación `SO(3)`.
+   * Ángulos de Euler y el problema de *Gimbal Lock*.
+   * Representación de Eje-Ángulo (Teorema de Euler).
+   * Cuaterniones Unitarios y su uso industrial.
+   * Casos Prácticos Reales: Modelado de cámaras en el robot (Eye-in-Hand), navegación de VANTs y animaciones de soldadura suaves con SLERP.
 
 *(Próximamente más notebooks sobre cinemática inversa, jacobianos, dinámica y control...)*
 
